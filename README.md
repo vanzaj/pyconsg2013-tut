@@ -17,16 +17,23 @@ Requirements
   way to get the above packages (and much more) installed)
 
 
-Plan
-----
+Topics
+------
 
-1. Ipython notebook 
-  (demo, setup, python shell vs ipython shell vs notebook, 
-  magic and display)
-2. Overview of numerical/scientific packages
-3. Basic plotting
-4. Array-oriented programming
-5. NumPy arrays (indexing, slicing, shaping)
-6. SciPy and Statsmodels
-7. scikit-image, scikit-learn
+* Ipython notebook 
+* Overview of numerical/scientific packages
+* Basic plotting
+* NumPy arrays 
+* Array-oriented programming
+* SciPy and Statsmodels
+* scikit-image, scikit-learn
+
+Notebooks
+---------
+
+1. [Introduction](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/00-Introduction-and-demo.ipynb)
+2. [IPython Notebook](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/01-IPy-notebook-overview.ipynb)
+
+
+
 
