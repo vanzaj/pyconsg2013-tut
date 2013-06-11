@@ -25,7 +25,7 @@ Topics
 * Basic plotting
 * NumPy arrays 
 * Array-oriented programming
-* SciPy and Statsmodels
+* SciPy 
 * scikit-image, scikit-learn
 
 Notebooks
@@ -35,6 +35,7 @@ Notebooks
 2. [IPython Notebook](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/01-IPy-notebook-overview.ipynb)
 3. [Matplotlib and NumPy basics](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/02-MPL-NumPy-basics.ipynb)
 4. [SciPy examples](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/03-SciPy-examples.ipynb)
+5. [Pandas, scikit-learn, scikit-image](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/04-Pandas-Scikits.ipynb)
 
 
 
