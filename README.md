@@ -33,7 +33,8 @@ Notebooks
 
 1. [Introduction](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/00-Introduction-and-demo.ipynb)
 2. [IPython Notebook](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/01-IPy-notebook-overview.ipynb)
-3.  [Matplotlib and NumPy basics](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/02-MPL-NumPy-basics.ipynb)
+3. [Matplotlib and NumPy basics](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/02-MPL-NumPy-basics.ipynb)
+4. [SciPy examples](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/pyconsg2013-tut/master/ipynb/03_SciPy_examples.ipynb)
 
 
 
